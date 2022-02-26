@@ -26,7 +26,7 @@ gem 'curb', '~> 0.8.5'
 gem 'oauth', '~> 0.3.6'
 gem 'git', '~> 1.2.5'
 gem 'oily_png', '~> 1.1.1'
-gem 'nokogiri', '~> 1.5.10'
+gem 'nokogiri', '~> 1.7.2'
 gem 'therubyracer', platforms: :ruby, require: linux_only('therubyracer')
 # To use Aweplug code from a different location:
 #
