@@ -24,7 +24,7 @@ gem 'uglifier', '~> 2.0.1'
 gem 'htmlcompressor', '~> 0.0.6'
 gem 'curb', '~> 0.8.5'
 gem 'oauth', '~> 0.3.6'
-gem 'git', '~> 1.2.5'
+gem 'git', '~> 1.13.0'
 gem 'oily_png', '~> 1.1.1'
 gem 'nokogiri', '~> 1.5.10'
 gem 'therubyracer', platforms: :ruby, require: linux_only('therubyracer')
