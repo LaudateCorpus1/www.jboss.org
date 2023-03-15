@@ -44,7 +44,7 @@ gem 'signet', '~> 0.5.1'
 gem 'gpgme', '~> 2.0'
 gem 'ruby-duration', '~> 3.1'
 gem 'sass', '~> 3.4', '< 3.4.6'
-gem 'activesupport', '> 3.1', '< 4.2.0' # Used in aweplug by ruby-duration
+gem 'activesupport', '> 3.1', '< 6.2.0' # Used in aweplug by ruby-duration
 
 group :development do
   gem 'rb-inotify', require: false
